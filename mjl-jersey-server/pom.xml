@@ -2,10 +2,10 @@
 	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.codecentric.mjl</groupId>
-  <artifactId>mjl-jersey-rest</artifactId>
+  <artifactId>mjl-jersey-server</artifactId>
   <packaging>war</packaging>
   <version>1.0.0-SNAPSHOT</version>
-  <name>mjl-jersey-rest</name>
+  <name>mjl-jersey-server</name>
   <parent>
     <groupId>de.codecentric.mjl</groupId>
     <artifactId>mjl-jersey-build</artifactId>

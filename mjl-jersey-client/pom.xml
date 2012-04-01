@@ -2,9 +2,9 @@
 	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.codecentric.mjl</groupId>
-  <artifactId>mjl-jersey-rest-client</artifactId>
+  <artifactId>mjl-jersey-client</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>mjl-jersey-rest-client</name>
+  <name>mjl-jersey-client</name>
   <parent>
     <groupId>de.codecentric.mjl</groupId>
     <artifactId>mjl-jersey-build</artifactId>
