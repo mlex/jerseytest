@@ -1,1 +1,5 @@
 Writing lightweight REST integration tests with the Jersey Test Framework
+
+To compile the project, simply run "mvn package" inside the mjl-jersey-build directory. To view the project in eclipse, best use the maven eclipse plugin ("mvn eclipse:eclipse") and import as existing project.
+
+There is a blog post corresponding to this mini-tutorial: http://mjlex.blogspot.de/2012/04/writing-lightweight-rest-integration.html.
